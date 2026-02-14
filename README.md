@@ -53,6 +53,12 @@ Cloud | Kubernetes | Terraform | AWS
   <img src="https://raw.githubusercontent.com/vishnuvardhandhadam/vishnuvardhan/output/github-contribution-grid-snake.svg" />
 </p>
 
+## 🌐 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vishnuvardhan8328/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel)](https://vishnuvardhan-portfolio.bolt.host/)
+
+
 
 
 
