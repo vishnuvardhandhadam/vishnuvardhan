@@ -34,28 +34,21 @@ Cloud | Kubernetes | Terraform | AWS
   <img src="https://img.icons8.com/color/48/ansible.png"/>
   <img src="https://img.icons8.com/color/48/prometheus-app.png"/>
 </p>
-## ⚙️ DevOps & Cloud
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 
 
+## 🚀 Featured Project
 
-## 🚀 Featured Projects
+| Project | CI/CD Pipeline for E-Commerce Application |
+|----------|-------------------------------------------|
+| Cloud | AWS |
+| CI/CD | Jenkins |
+| IaC | Terraform |
+| Containerization | Docker |
+| Config Management | Ansible |
+| Monitoring | Prometheus, Grafana |
+| Code Quality | SonarQube |
+| Version Control | Git |
 
-| Project | Description | Tech |
-|----------|------------|------|
-| CI/CD Pipeline | Automated deployment using Jenkins & Docker | Jenkins, Docker, AWS |
-| Kubernetes Deployment | Deployed microservices on EKS | K8s, AWS |
-| React Portfolio | Responsive frontend website | React, Tailwind |
-| Terraform Infra | Created AWS infra using Terraform | Terraform, AWS |## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight" />
