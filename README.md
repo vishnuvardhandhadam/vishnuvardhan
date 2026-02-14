@@ -22,12 +22,23 @@ Cloud | Kubernetes | Terraform | AWS
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
 
 ### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes)
-![Terraform](https://img.shields.io/badge/Terraform-purple?style=for-the-badge&logo=terraform)
-![Jenkins](https://img.shields.io/badge/Jenkins-red?style=for-the-badge&logo=jenkins)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+## ☁️ Cloud & DevOps Tools
+## ☁️ Cloud & DevOps Stack
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/amazon-web-services.png"/>
+  <img src="https://img.icons8.com/color/48/terraform.png"/>
+  <img src="https://img.icons8.com/color/48/linux.png"/>
+  <img src="https://img.icons8.com/color/48/git.png"/>
+  <img src="https://img.icons8.com/color/48/kubernetes.png"/>
+  <img src="https://img.icons8.com/color/48/docker.png"/>
+  <img src="https://img.icons8.com/color/48/jenkins.png"/>
+  <img src="https://img.icons8.com/color/48/ansible.png"/>
+  <img src="https://img.icons8.com/color/48/prometheus-app.png"/>
+</p>
+
+
+
 ## 🚀 Featured Projects
 
 | Project | Description | Tech |
