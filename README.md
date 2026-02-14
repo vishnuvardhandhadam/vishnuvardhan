@@ -44,6 +44,12 @@ Cloud | Kubernetes | Terraform | AWS
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnu vardhandhadam&theme=tokyonight" />
 </p>
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/vishnuvardhandhadam/vishnuvardhandhadam/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
