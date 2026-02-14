@@ -1,4 +1,4 @@
-# vishnu vardhan
+# Vishnu Vardhan
 DevOps Engineer
 Cloud | Kubernetes | Terraform | AWS 
 <h1 align="center">Hi 👋, I'm Vishnu Vardhan</h1>
