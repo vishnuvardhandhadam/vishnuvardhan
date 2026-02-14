@@ -37,17 +37,11 @@ Cloud | Kubernetes | Terraform | AWS
 
 
 ## 🚀 Featured Project
+### 🛒 CI/CD Pipeline for E-Commerce Application
+Built a production-ready DevOps pipeline using AWS, Jenkins, Terraform, Docker, and Ansible. 
+Integrated SonarQube for code quality and implemented monitoring with Prometheus & Grafana.
+Enabled automated deployments and improved system reliability.
 
-| Project | CI/CD Pipeline for E-Commerce Application |
-|----------|-------------------------------------------|
-| Cloud | AWS |
-| CI/CD | Jenkins |
-| IaC | Terraform |
-| Containerization | Docker |
-| Config Management | Ansible |
-| Monitoring | Prometheus, Grafana |
-| Code Quality | SonarQube |
-| Version Control | Git |
 
 
 <p align="center">
