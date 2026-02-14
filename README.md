@@ -46,10 +46,11 @@ Cloud | Kubernetes | Terraform | AWS
 </p>
 ---
 
+
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vishnuvardhandhadam/vishnuvardhandhadam/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/vishnuvardhandhadam/vishnuvardhan/output/github-contribution-grid-snake.svg" />
 </p>
 
 
